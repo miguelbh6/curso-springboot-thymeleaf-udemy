@@ -1,0 +1,1 @@
+web: -Dserver.port=$PORT -Dspring.profiles.active=prod -jar target/demo-mvc-0.0.1-SNAPSHOT.jar
